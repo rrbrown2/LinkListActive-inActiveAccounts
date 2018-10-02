@@ -1,0 +1,12 @@
+                                 [IN-Active]  Account Report
+                                  ****************
+Last       First               Date of        Account             Account             Account             Account             
+Name       Name                Creation       Balance             Type                Age                 Number              
+Prest      Emill                12, 1999      $32320.00            c                   19                  1011                
+Rivers     Ron                 Dec. 12, 2017  $1002.90             s                   1                   1012                
+Lake       Rick                MarchApr. 28, 2017$594.75           c                   1                   1345                
+Tucker     chris               Aug. 20, 2018  $10.10               c                   0                   2004                
+Richard    Barb                 11, 2017      $4939.00             c                   1                   2010                
+Uoga       Herb                Oct. 9, 2000   $3434.90             c                   18                  8821                
+Total Value of Inventory ======== $42301.65
+END OF REPORT                                     
